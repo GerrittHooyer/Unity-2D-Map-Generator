@@ -1,0 +1,27 @@
+{
+    "name": "com.yourname.mapgenerator2d",
+    "version": "0.1.0",
+    "displayName": "2D Map Generator",
+    "description": "A Unity package that allows game developers to easily generate playable 2D spaces.",
+    "unity": "6000.0",
+    "unityRelease": "32f1",
+    "license": "MIT",
+    "author": {
+      "name": "Gerritt Hooyer",
+      "url": "https://github.com/GerrittHooyer"
+    },
+    "keywords": [
+      "unity",
+      "2d",
+      "map",
+      "generator",
+      "procedural",
+      "level generation"
+    ],
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/GerrittHooyer/unity-2d-map-generator.git"
+    },
+    "documentationUrl": "https://github.com/GerrittHooyer/unity-2d-map-generator#readme"
+  }
