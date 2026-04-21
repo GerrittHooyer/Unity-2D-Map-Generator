@@ -1,6 +1,6 @@
 {
     "name": "com.gerritthooyer.mapgenerator2d",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "2D Map Generator",
     "description": "A Unity package that allows game developers to easily generate playable 2D spaces.",
     "unity": "6000.0",
