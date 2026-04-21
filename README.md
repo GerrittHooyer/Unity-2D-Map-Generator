@@ -1,5 +1,5 @@
 # Unity 2D Map Generator
-A unity package that allows game developers to easily generate playable spaces.  
+A unity package that allows game developers to easily generate playable spaces using Unity's built-in TileMap 2D system.  
 
 ## Installation
 ### Installing via GitHub
