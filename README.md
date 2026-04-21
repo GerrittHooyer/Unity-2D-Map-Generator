@@ -17,7 +17,11 @@ Contribution documentation under development...
 Issue submission documentation under development...
 
 ## Upcoming Features
-Nothing to see here...  
+
+- Perlin Noise Map Algorithm
+- Unreachable Space Filter Map Algorithm
+- Methods for automatically determining start / end or entry / exit positions
+- Methods for determining 'Areas of Interest' to aid in procedural generation of enemies, items and more within generated maps
 
 ## Projects Using This Package
 If you use this package in your Unity project, please fork this repo, add your project to the README.md file, and then submit a PR with your changes. Please follow the format below1!
