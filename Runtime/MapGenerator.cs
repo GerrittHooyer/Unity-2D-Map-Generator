@@ -143,7 +143,7 @@ public class MapGenerator : MonoBehaviour
             for (int y = BoundarySize.y; y < MapSize.y - BoundarySize.y; y++)
             {
                 float c = Random.value;
-                if (c > fillPercentage)
+                if (c < fillPercentage)
                 {
                     Map[x, y] = MapTileID.Wall;
                 }
